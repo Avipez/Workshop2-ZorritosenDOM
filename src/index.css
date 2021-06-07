@@ -1,3 +1,10 @@
 @import 'tailwindcss/dist/base.css';
 @import 'tailwindcss/dist/components.css';
 @import 'tailwindcss/dist/utilities.css';
+
+
+.loading-square {
+    width: 300px;
+    height: 300px;
+    background-color: gray;
+}
